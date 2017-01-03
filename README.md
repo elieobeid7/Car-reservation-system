@@ -1,10 +1,15 @@
 # Car-reservation-system
-basic car reservation system, written in PHP, I wrote it to teach students PHP. Shouldn't be used in any real world application
 
-admin email: admin@gmail.com
-admin password admin
+Basic car reservation system, written in PHP, MySQL and Bootstrap. I wrote it to teach students PHP. Shouldn't be used in any real world application. <br /> 
 
-normal user sign in 
+Admin login <br /> 
 
-email: rami@gmail.com
-password rami
+admin email: admin@gmail.com <br /> 
+admin password admin <br /> 
+
+Normal user Login <br />  
+
+email: rami@gmail.com <br /> 
+password rami <br /> 
+
+Of course you can add more accounts by registering.
