@@ -7,7 +7,7 @@ Admin login <br />
 admin email: admin@gmail.com <br /> 
 admin password admin <br /> 
 
-Normal user Login <br />  
+Normal user login <br />  
 
 email: rami@gmail.com <br /> 
 password rami <br /> 
